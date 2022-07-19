@@ -1,5 +1,5 @@
 package Com.Nasir.Herawi;
-
+// Thredas demo!
 public class Mythred extends Thread{
     public void start(){
         System.out.println("My Thread started");
