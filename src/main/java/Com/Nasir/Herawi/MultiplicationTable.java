@@ -3,6 +3,7 @@ package Com.Nasir.Herawi;
 import java.util.*;
 public class MultiplicationTable {
     public static void main(String[] args) {
+        System.out.println("Greetings :)");
         Scanner sc = new Scanner(System.in);
         System.out.println("THIS IS A PROGRAM TO SHW MULTIPLICATION TABLE");
         System.out.println("Enter the number to find it's multiplication table");
